@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aingiina.andwp.net/sitemap.xml
